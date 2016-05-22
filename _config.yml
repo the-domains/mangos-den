@@ -1,0 +1,28 @@
+name: Mangos den
+favicon: null
+layout_spectrum: 0.18435009312815964
+typography_spectrum: 0.677941914414987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.17800742434337735
+  lightness: 0.41426686360500753
+  saturation: 0.17235908983275294
+  rhythmicContrast: 0.5488167491275817
+purpose: []
